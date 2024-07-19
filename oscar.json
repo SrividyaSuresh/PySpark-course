@@ -1,0 +1,57 @@
+[{
+  "title": "Parasite",
+  "year": 2019,
+  "director": "Bong Joon-ho",
+  "genre": "Drama/Thriller",
+  "awards": [
+    "Best Picture",
+    "Best Director",
+    "Best Original Screenplay",
+    "Best International Feature Film"
+  ]
+},
+{
+  "title": "The Shape of Water",
+  "year": 2017,
+  "director": "Guillermo del Toro",
+  "genre": "Drama/Fantasy",
+  "awards": [
+    "Best Picture",
+    "Best Director",
+    "Best Production Design",
+    "Best Original Score"
+  ]
+},
+{
+  "title": "Moonlight",
+  "year": 2016,
+  "director": "Barry Jenkins",
+  "genre": "Drama",
+  "awards": [
+    "Best Picture",
+    "Best Supporting Actor",
+    "Best Adapted Screenplay"
+  ]
+},
+{
+  "title": "Spotlight",
+  "year": 2015,
+  "director": "Tom McCarthy",
+  "genre": "Drama",
+  "awards": [
+    "Best Picture",
+    "Best Original Screenplay"
+  ]
+},
+{
+  "title": "Birdman",
+  "year": 2014,
+  "director": "Alejandro G. Iñárritu",
+  "genre": "Drama/Comedy",
+  "awards": [
+    "Best Picture",
+    "Best Director",
+    "Best Original Screenplay",
+    "Best Cinematography"
+  ]
+}]
